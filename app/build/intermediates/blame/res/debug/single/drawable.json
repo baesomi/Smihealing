@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smihealing_2.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\smihealing_2.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_setting.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_setting.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_activity.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\btn_activity.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favicon.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\favicon.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sleep.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\btn_sleep.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_food.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\btn_food.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_history.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_history.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_splash.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\img_splash.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_therapy.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_therapy.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_challenge.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_challenge.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_msg_pressed.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\bt_msg_pressed.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smihealing.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\smihealing.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_confidence.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_confidence.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_msg_2.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\bg_msg_2.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_album.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_album.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smihealing_0.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\smihealing_0.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_album.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_album.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_msg_2.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\bg_msg_2.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_howto.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_howto.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bell.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_bell.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_selector.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\msg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_msg_default.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\bt_msg_default.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sleep.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\btn_sleep.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_star.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_message.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\img_message.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\howto_photo.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\howto_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_life.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_life.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hope.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_hope.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_letter.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_letter.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_challenge.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_challenge.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_message.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\img_message.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_confidence.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_confidence.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_back.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_failure.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_failure.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_splash.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\img_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_therapy.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_therapy.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_selector.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\msg_selector.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bell.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_bell.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_message.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\btn_message.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_star.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_money.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_money.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_msg_default.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\bt_msg_default.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smihealing_0.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\smihealing_0.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_alarm.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\img_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_letter.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_letter.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\capture_selector.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\capture_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_msg.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\bg_msg.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_wisdom.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_wisdom.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_history.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_history.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_message.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\btn_message.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smihealing_1.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\smihealing_1.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_capture.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\btn_capture.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_setting.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_setting.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_howto.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_howto.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_activity.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\btn_activity.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_capture_2.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\btn_capture_2.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smihealing_2.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\smihealing_2.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favicon.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\favicon.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smihealing.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\smihealing.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_capture.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\btn_capture.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_failure.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_failure.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_add_clear_selector.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.6\\res\\drawable\\fab_add_clear_selector.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_alarm.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\img_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_food.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\btn_food.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\howto_alarm.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\howto_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\capture_selector.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\capture_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_msg.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\bg_msg.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_wisdom.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\ic_wisdom.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_capture_2.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\btn_capture_2.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\howto_result.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\howto_result.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smihealing_1.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\smihealing_1.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_life.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_life.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_money.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_money.png"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hope.png",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\drawable\\ic_hope.png"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_msg_pressed.png",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\drawable\\bt_msg_pressed.png"
+    }
+]

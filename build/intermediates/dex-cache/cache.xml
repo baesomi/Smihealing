@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ChaeRin\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\picasso-2.5.0_5a310f28414186d2b3ef3823c3bc13144e0c2fed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_1f3617cde9b4c3014fde33c8d907022b50e24a28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Programs\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-beta1_66f215a4cb8e0edee2ea113270b62ed0a833f995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85580f7e643f4e319878f282874afccc3b1b95ed">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-emotion-1.0.0_90a97413c1b0985e9ea1c1fb55d11db5c6c83ff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_fd01eb2c7c5d178658fdc12347343022a6789131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\io.github.yavski\fab-speed-dial\1.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="02d0d40b4c5b6b4093af99d696cea903aad9e529">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\io.github.yavski-fab-speed-dial-1.0.6_d4aed5ffb79ca76aac3fbf2307ca28be9f347f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6fd4eef51a55508bdf3f43f8ad96992e1da3850b">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0-beta1_3083f2735b61022987fcdaf6c79427bfce41068f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1_a77a9b138a7b5c479f3609c4299398083290edb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_ae0b5748877416d1e08ebecc5bea2816b8bfdea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ChaeRin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\gson-2.3.1_11a67958aceda872b35e90d5cd1b4bb594206d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="471ce760dbf7b784fd74892b5113bca4e0d8def7">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0-beta1_c16e7c9d4c2f64418c0c32285cab104f466b439b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\commons-io-2.4_7357eff1fbe2756048b338eee6eb03a449ec7928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-beta1_54e8a75148f296bbbb7bb77da6a33ce186738aee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-beta1_28a61c80c4b9d7ae6f1a065ae6e7899b0ddfb13d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-beta1_6fd367555fd0c568b17b6ab843f178db6c93316d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-beta1_4d656f85e41b72294cae00914add123390fd4d60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ChaeRin\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.1_dd5145ce73bc09f53d315738241dacbe79f9d421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NTU\project\Smile\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b40d5a017179a5aa1ef65d47e8a793a56c2b9aeb">
+        <dex dex="D:\NTU\project\Smile\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-face-1.1.0_9e7e08fd20a16ccce951966dc49bf2f2c0d02695.jar" />
+    </item>
+
+</items>

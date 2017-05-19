@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.swdm.mp.smile"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera2" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <protected-broadcast android:name="android.intent.action.MEDIA_MOUNTED" />
+
+    <category android:name="android.intent.category.BROWSABLE" />
+
+    <service
+        android:name="com.swdm.mp.smile.SettingFragment"
+        android:enabled="true" />
+
+    <receiver
+        android:name="com.swdm.mp.smile.MyReceiver"
+        android:enabled="true"
+        android:exported="false" >
+        <intent-filter>
+            <action android:name="android.intent.action.BOOT_COMPLETED" />
+        </intent-filter>
+    </receiver>
+
+    <library />
+    <library>
+    </library>
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme" >
+        <activity android:name="com.swdm.mp.smile.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdm.mp.smile.JavaScriptInterface" >
+            <intent-filter>
+                <action android:name="com.swdm.mp.smile.JAVASCRIPTINTERFACE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdm.mp.smile.HistoryFragment" />
+        <activity android:name="com.swdm.mp.smile.TherapyFragment" />
+        <activity android:name="com.swdm.mp.smile.SettingFragment" />
+        <activity android:name="com.swdm.mp.smile.HowtoFragment" />
+        <activity android:name="com.swdm.mp.smile.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdm.mp.smile.ActivityIntent" >
+            <intent-filter>
+                <action android:name="com.swdm.mp.smile.ACTIVITYINTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdm.mp.smile.MessageIntent" >
+            <intent-filter>
+                <action android:name="com.swdm.mp.smile.MESSAGEINTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdm.mp.smile.FoodIntent" >
+            <intent-filter>
+                <action android:name="com.swdm.mp.smile.FOODINTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdm.mp.smile.SleepIntent" >
+            <intent-filter>
+                <action android:name="com.swdm.mp.smile.SLEEPINTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdm.mp.smile.AlarmIntent" >
+            <intent-filter>
+                <action android:name="com.swdm.mp.smile.ALARMINTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdm.mp.smile.SmileEffectIntent" >
+            <intent-filter>
+                <action android:name="com.swdm.mp.smile.SMILEEFFECTINTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdm.mp.smile.helper.RecognizeActivity" />
+        <!--
+             ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

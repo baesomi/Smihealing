@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="8dp"
+    android:paddingRight="10dp">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="#00000000"
+        android:onClick="onClick"
+        android:src="@drawable/ic_back" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:rowCount="2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Smile and Smile!"
+            android:textSize="25dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#00000000"
+            android:src="@drawable/img_alarm" />
+    </GridLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true">
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:rowCount="30">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"
+                android:text="Alarm Setting" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="8dp"
+                android:background="#197423" />
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:rowCount="1">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text="Alarm"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_alarm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+            </GridLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#197423" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"
+                android:paddingTop="10dp"
+                android:text="basic alarm" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="8dp"
+                android:background="#197423" />
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:rowCount="25">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text="12:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0000"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 1:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0100"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 2:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0200"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 3:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0300"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 4:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0400"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 5:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0500"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 6:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0600"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 7:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0700"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 8:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0800"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 9:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_0900"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text="10:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1000"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text="11:00 AM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1100"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text="12:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1200"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 1:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1300"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 2:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1400"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 3:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1500"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 4:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1600"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 5:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1700"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 6:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1800"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 7:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_1900"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 8:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_2000"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text=" 9:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_2100"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text="10:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_2200"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="10dp"
+                    android:text="11:00 PM"
+                    android:textColor="#666666"
+                    android:textSize="20dp" />
+
+                <Switch
+                    android:id="@+id/switch_2300"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_gravity="right|center_vertical"
+                    android:gravity="center_vertical"
+                    android:text=" " />
+            </GridLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#197423" />
+        </GridLayout>
+    </ScrollView>
+</LinearLayout>

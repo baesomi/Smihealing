@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SMIHEALING</string>
+
+    <!-- Emotion subscription key -->
+    <!-- Please refer to https://www.projectoxford.ai/ to get your subscription key -->
+    <!-- If you have one subscription key, you can add it here to use the service -->
+    <string name="subscription_key">9cb02e2dc8b34259b4f8e9956de2638a</string>
+
+    <!-- Face subscription key -->
+    <!-- Please refer to http://oxford-portal.azurewebsites.net/doc/general/subscription-key-mgmt to get your subscription key -->
+    <!-- Please note that the Emotion API and Face API have different subscription keys -->
+    <!-- You will need Face subscription key, besides the Emotion subscription keys, for the second part of the sample to work -->
+    <string name="faceSubscription_key">1933dd04bc74488f9a6e9eeda3056329</string>
+
+</resources>

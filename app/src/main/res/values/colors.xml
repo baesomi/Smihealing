@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3f8812</color>
+    <color name="colorPrimaryDark">#268812</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#ceffc8</color>
+
+
+    <drawable name="bg_select">#04000000</drawable>
+    <drawable name="bg">#00ffffff</drawable>
+
+
+    <!--
+    <color name="red">#bc1203</color>
+    <color name="orange">#fd8e3f</color>
+    <color name="green">#1a814d</color>
+    -->
+</resources>

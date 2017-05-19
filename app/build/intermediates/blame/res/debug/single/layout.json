@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\howto_fragment.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\howto_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_menu_item_end.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.6\\res\\layout\\fab_menu_item_end.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_intent.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\message_intent.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smile_effect_intent.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\smile_effect_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_speed_dial_top.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.6\\res\\layout\\fab_speed_dial_top.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cell_layout.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\cell_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intent.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\activity_intent.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_speed_dial_top.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.6\\res\\layout\\fab_speed_dial_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_fragment.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\setting_fragment.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_menu_item_start.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.6\\res\\layout\\fab_menu_item_start.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\therapy_fragment.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\therapy_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\therapy_fragment.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\therapy_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_intent.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\message_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recognize.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\activity_recognize.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_listview_item.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\message_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\smile_effect_intent.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\smile_effect_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recognize.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\activity_recognize.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_speed_dial_bottom.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.6\\res\\layout\\fab_speed_dial_bottom.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting_fragment.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\setting_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_fragment.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\history_fragment.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\food_intent.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\food_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sleep_intent.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\sleep_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_menu_item_start.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.6\\res\\layout\\fab_menu_item_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intent.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\activity_intent.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_intent.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\alarm_intent.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_intent.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\alarm_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_menu_item_end.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.6\\res\\layout\\fab_menu_item_end.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\food_intent.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\food_intent.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_listview_item.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\message_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\howto_fragment.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\howto_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cell_layout.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\cell_layout.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sleep_intent.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\sleep_intent.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_fragment.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\history_fragment.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fab_speed_dial_bottom.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.6\\res\\layout\\fab_speed_dial_bottom.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_listview_item.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\src\\main\\res\\layout\\alarm_listview_item.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\somi\\AndroidStudioProjects\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_listview_item.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\src\\main\\res\\layout\\alarm_listview_item.xml"
+    },
+    {
+        "merged": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\NTU\\project\\Smile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\layout\\abc_search_view.xml"
+    }
+]

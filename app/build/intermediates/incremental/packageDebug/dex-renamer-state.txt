@@ -1,0 +1,4 @@
+#Thu Feb 16 12:08:32 SGT 2017
+base.0=D\:\\NTU\\project\\Smile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\NTU\\project\\Smile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

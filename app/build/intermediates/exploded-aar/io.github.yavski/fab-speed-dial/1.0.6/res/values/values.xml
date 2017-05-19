@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fab_background_tint">#FFEEEEEE</color>
+    <color name="fab_drawable_tint">@android:color/white</color>
+    <color name="mini_fab_drawable_tint">@android:color/black</color>
+    <color name="mini_fab_title_background_tint">@android:color/white</color>
+    <color name="title_text_color">@android:color/black</color>
+    <declare-styleable name="FabSpeedDial"><attr format="reference" name="fabMenu"/><attr name="fabGravity">
+            <flag name="bottom_end" value="0x00"/>
+            <flag name="bottom_start" value="0x01"/>
+            <flag name="top_end" value="0x02"/>
+            <flag name="top_start" value="0x03"/>
+        </attr><attr format="color|reference" name="fabDrawable"/><attr format="color|reference" name="fabDrawableTint"/><attr format="color|reference" name="fabBackgroundTint"/><attr format="color|reference" name="miniFabBackgroundTint"/><attr format="reference" name="miniFabBackgroundTintList"/><attr format="color|reference" name="miniFabDrawableTint"/><attr format="color|reference" name="miniFabTitleTextColor"/><attr format="reference" name="miniFabTitleTextColorList"/><attr format="boolean" name="touchGuard"/><attr format="color|reference" name="touchGuardDrawable"/><attr format="color|reference" name="miniFabTitleBackgroundTint"/><attr format="boolean" name="miniFabTitlesEnabled"/></declare-styleable>
+    <dimen name="coordinator_layout_offset">12dp</dimen>
+    <dimen name="fab_margin">0dp</dimen>
+    <dimen name="fab_menu_item_margin_top">-16dp</dimen>
+    <dimen name="keyline_1">16dp</dimen>
+    <dimen name="keyline_1_minus_8dp">8dp</dimen>
+    <dimen name="mini_fab_margin_bottom">0dp</dimen>
+    <dimen name="mini_fab_margin_left">@dimen/keyline_1_minus_8dp</dimen>
+    <dimen name="mini_fab_margin_right">@dimen/keyline_1_minus_8dp</dimen>
+    <dimen name="mini_fab_margin_top">0dp</dimen>
+    <string name="app_name">FabMenu</string>
+    <style name="MiniFab">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginBottom">@dimen/mini_fab_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/mini_fab_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/mini_fab_margin_right</item>
+        <item name="android:layout_marginTop">@dimen/mini_fab_margin_top</item>
+        <item name="fabSize">mini</item>
+        <item name="paddingEnd">0dp</item>
+        <item name="paddingStart">0dp</item>
+    </style>
+    <style name="MiniFabLayout">
+        <item name="android:layout_gravity">end</item>
+        <item name="android:layout_marginTop">@dimen/fab_menu_item_margin_top</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="TitleCardView">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="cardBackgroundColor">@android:color/white</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="contentPaddingBottom">4dp</item>
+        <item name="contentPaddingLeft">8dp</item>
+        <item name="contentPaddingRight">8dp</item>
+        <item name="contentPaddingTop">4dp</item>
+    </style>
+    <style name="TitleView">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+</resources>
