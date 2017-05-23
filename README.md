@@ -9,12 +9,12 @@
 The Mobile Application that supports for depressed patients using laughter therapy.
 
 
-# 1.Introduction  
+## 1. Introduction  
 
  The number of patients with **depression has recently increased due to stress**. This mobile application is based on the research that laughter is effective for stress relief. The user's photo image is analyzed with **the Microsoft Face API and Emotion API**, and the user is given an appropriate **healing message** based on the analyzed result (age, happiness, and micro index). Maximize the effectiveness of treatment by presenting advice in life and celebrity remarks. The research is expected to be used in therapeutic applications for future depressed patients.  
  
  
- # 2.Laughter Therapy System  
+ ## 2. Laughter Therapy System  
  
  <img src = "https://raw.githubusercontent.com/baesomi/Smihealing/master/wikiImage/structure.png" width="60%">  
  
